@@ -109,7 +109,7 @@ ul li a
     /* flex-wrap: nowrap; */
     top: -1240px;
     padding: 0px;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .box
